@@ -19,12 +19,9 @@ A clean and elegant desktop application for downloading Douyin and Bilibili vide
 **English：**
 Short Video No-Watermark Download is a desktop tool built with Python + PyQt5, supporting high-definition watermark-free video downloads from Douyin (TikTok China) and Bilibili. Features a modern dark-themed UI with intuitive operation.
 
-<img width="1364" height="1220" alt="B站" src="https://github.com/user-attachments/assets/dffbfca4-dddd-4fd8-a618-39585cc61cc1" />
-
 <img width="1364" height="1220" alt="抖音" src="https://github.com/user-attachments/assets/efaf5c6c-8e5f-4841-9913-b255d4fb7468" />
 
-
-
+<img width="1364" height="1220" alt="B站" src="https://github.com/user-attachments/assets/dffbfca4-dddd-4fd8-a618-39585cc61cc1" />
 
 ---
 
